@@ -1,0 +1,2 @@
+Web KDR terdiri dari menu KDR, Risk dan Monica yang dijadikan 1 portal web.
+PHP yang digunakan PHP versi 5
